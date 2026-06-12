@@ -30,7 +30,7 @@ The project includes data preprocessing, exploratory data analysis (EDA), hyperp
 
 ## 🌐 Live Demo
 
-🔗 **Application:** YOUR_DEPLOYED_LINK
+🔗 **Application:** https://tesla-stock-price-prediction-lrlrtuy2gwyvpsyfqpyuh4.streamlit.app
 
 📂 **GitHub Repository:** https://github.com/ayu-sh87/Tesla-_Stock-_Price-_Prediction
 
