@@ -3,13 +3,7 @@
 ## 🌐 Live Demo
 
 **Deployed Application:**
-[🔗 Try the Live App](YOUR_DEPLOYED_LINK)
-
-Example:
-
-```text
-https://tesla-stock-prediction.streamlit.app
-```
+[🔗 Try the Live App]https://tesla-stock-price-prediction-lrlrtuy2gwyvpsyfqpyuh4.streamlit.app
 
 ---
 
